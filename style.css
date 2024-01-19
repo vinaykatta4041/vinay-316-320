@@ -1,0 +1,11 @@
+body{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.line{
+    background-color: black;
+    height: 3px;
+}
+.copy{
+    font-size: 12px;
+}
